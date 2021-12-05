@@ -15,7 +15,7 @@ namespace aspnet_get_started.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hello World!..java-test";
+            ViewBag.Message = "Hello World!..java";
 
             return View();
         }
